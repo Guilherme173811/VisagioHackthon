@@ -1,5 +1,5 @@
-# VisagioHackthon
-Hackthon2020 \n
+# VisagioHackthon: Combate a fake news
+Hackthon2020
 
 Explicação dos arquivos no Github:
 
