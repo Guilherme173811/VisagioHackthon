@@ -1,5 +1,5 @@
 # VisagioHackthon: Combate a fake news
-Hackthon2020
+Hackthon2020: https://www.visagiotalentos.com/hackathon
 
 Explicação dos arquivos no Github:
 
